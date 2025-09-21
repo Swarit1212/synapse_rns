@@ -1,0 +1,12 @@
+body.dark {
+  background: #121212;
+  color: white;
+}
+
+.profile-page {
+  padding: 20px;
+}
+.profile-page.dark button {
+  background: #333;
+  color: white;
+}
